@@ -4,6 +4,7 @@ import Intro from "./Components/Intro/Intro";
 import Navbar from "./Components/Navbar/Navbar";
 import Skills from "./Components/Skills/Skills";
 import Works from "./Components/Works/Works";
+import "./App.css"
 import {BrowserRouter as Router , Routes, Route,Link} from "react"
 
 
@@ -11,10 +12,10 @@ function App() {
   return (
     <div className="App">
     <Navbar/>
-    <Intro/>
-    <Skills/>
-    <Works/>
-    <Contact/>
+    <section><Intro/></section>
+    <section><Skills/></section>
+    <section><Works/></section>
+    <section><Contact/></section>
     <Footer/>
     </div>
   );

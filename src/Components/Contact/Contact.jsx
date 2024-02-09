@@ -4,6 +4,7 @@ import watsupIcon from "../../react-portfolio-assets/assets/whatsapp (1).png";
 import linkedinIcon from "../../react-portfolio-assets/assets/linkedin (1).png";
 import instagramIcon from "../../react-portfolio-assets/assets/instagram (1).png";
 import emailjs from "@emailjs/browser";
+
 // import InstaLink from "https://www.instagram.com/invites/contact/?i=1lcp0m8zgsnec&utm_content=kg10lru"
 // import facebookIcon from "../../react-portfolio-assets/assets/facebook.png"
 // import facebookIcon from "../../react-portfolio-assets/assets/facebook.png"
